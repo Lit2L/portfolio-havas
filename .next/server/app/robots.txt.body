@@ -1,0 +1,6 @@
+User-Agent: Googlebot
+User-Agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://larryly.com/sitemap.xml
